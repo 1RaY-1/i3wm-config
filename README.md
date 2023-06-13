@@ -13,7 +13,7 @@ To setup, follow this steps:
 5.  With cli replace current config file ~/.config/i3/config with custom config from here
 6.  Move rofi-power-menu to ~/.config/i3/
 7.  Replace /etc/i3status.conf with the custom i3status.conf (using sudo)
-8.  Reload i3wm config and restart i3 using: $mod+Shift+c and $mod+Shift+r (note: this is the default key binding for reloading config and WM, the new one from custom config might be different)
+8.  Reload i3wm config and restart i3 using: $mod+Shift+c and $mod+Shift+r
 
 ## Packages to install
 
@@ -37,3 +37,5 @@ sudo echo "blacklist pcspkr" >> /etc/modprobe.d/nobeep.conf
 
 ## Key bindings
 To show later...
+
+You can see the key bindings in the config file, note that if you don't know the key bindings, you will be unable to use the WM (any window manager will require you to know key bindings).
