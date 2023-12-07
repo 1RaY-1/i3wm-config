@@ -1,4 +1,4 @@
-# i3wm-config
+# My simple i3wm-config
 My i3 Windows Manager config files
 
 This includes some custom key bindings, rofi power menu, rofi apps menu instead of dmenu.
