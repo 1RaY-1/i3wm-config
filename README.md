@@ -30,7 +30,7 @@ On fedora install this packages:
 i3 i3status rofi i3lock xbacklight feh conky nitrogen redshift-gtk volumeicon setxkbmap maim xclip
 ```
 
-## Disable bip sound
+## Disable bip sound (Not obligatory)
 Run this command to disable bip sound from i3:
 ```
 sudo echo "blacklist pcspkr" >> /etc/modprobe.d/nobeep.conf
@@ -39,10 +39,12 @@ sudo echo "blacklist pcspkr" >> /etc/modprobe.d/nobeep.conf
 ## Key bindings
 To show later...
 
-You can see the key bindings in the config file, note that if you don't know the key bindings, you will be unable to use the WM (any window manager will require you to know key bindings).
+You can see the key bindings in the config file, note that if you don't know the key bindings, you will be unable to use the WM (any window manager will require you to know their key bindings).
 
 ## Screenshot
 later...
 
 ### Caution
 If you don't even know what window managers are and used to use a common desktop environment like Gnome or KDE, I recommend first watching a youtube video about them and then think if you really need it.
+
+If you do something wrong with your OS, I AM NOT RESPONSIBLE for that.
